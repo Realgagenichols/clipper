@@ -1,0 +1,33 @@
+{
+  "synthetic_default_key.log": [
+    {
+      "sector": 0,
+      "key_a": "ffffffffffff",
+      "key_b": null
+    }
+  ],
+  "synthetic_transport_key.log": [
+    {
+      "sector": 4,
+      "key_a": "a0a1a2a3a4a5",
+      "key_b": null
+    }
+  ],
+  "synthetic_multi_sector.log": [
+    {
+      "sector": 0,
+      "key_a": "a0a1a2a3a4a5",
+      "key_b": null
+    },
+    {
+      "sector": 1,
+      "key_a": null,
+      "key_b": "b0b1b2b3b4b5"
+    },
+    {
+      "sector": 6,
+      "key_a": "d3f7d3f7d3f7",
+      "key_b": null
+    }
+  ]
+}

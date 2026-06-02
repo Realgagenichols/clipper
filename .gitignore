@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Tooling caches
+.ruff_cache/
+.pytest_cache/
+
+# Virtual environments
+.venv
+
+# Local working notes (not part of the published project)
+tasks/
+changes/
+.claude/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Environment
+.env
